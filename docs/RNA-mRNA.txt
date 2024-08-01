@@ -1,0 +1,12 @@
+RNA (Ribonucleic Acid) is a nucleic acid molecule that plays a crucial role in various cellular processes, including protein synthesis, gene regulation, and RNA processing. mRNA (Messenger RNA) is a specific type of RNA that carries genetic information from DNA to the ribosome for protein synthesis.
+
+Comparison of RNA and mRNA:
+
+Structure: RNA has a linear structure, while mRNA has a specific secondary structure with a 5’ cap and a 3’ poly-A tail.
+Length: mRNA is generally longer than other types of RNA (tRNA and rRNA), ranging from 300 to 12,000 nucleotides in length.
+Function: RNA is involved in various cellular processes, whereas mRNA specifically carries genetic information for protein synthesis.
+Site of synthesis: RNA is synthesized in both the nucleus (rRNA and snRNA) and cytoplasm (mRNA), whereas mRNA is primarily synthesized in the nucleus as heterogeneous nuclear RNA (hnRNA) and then processed and exported to the cytoplasm.
+Modification: mRNA undergoes additional modifications, such as capping at the 5’ end and polyadenylation at the 3’ end, to enhance stability and prevent degradation.
+In summary: RNA is a broad category of nucleic acids, while mRNA is a specific type of RNA that plays a critical role in protein synthesis. The key differences lie in their structure, length, function, site of synthesis, and modification patterns.
+
+https://en.wikipedia.org/wiki/RNA
